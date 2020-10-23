@@ -4,11 +4,18 @@
 ## 이벤트 정보
 https://event-us.kr/hacktoberfestkorea/event/23432
 
+## 준비사항 
+- Github 계정
+- [Git 설치](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)  
+
 ## 오늘의 핸즈온
 
 ### 1단계 : 이슈 만들기
 ![Issues_·_jiyeonseo_2020-hacktoberfest-hands-on](https://user-images.githubusercontent.com/2231510/97009712-671e4900-157f-11eb-8c5f-aa269d161b43.png)
-- 새로운 기능 이슈를 만들어 봅니다!  
+
+![New_Issue_·_jiyeonseo_2020-hacktoberfest-hands-on](https://user-images.githubusercontent.com/2231510/97023689-d3ee0f00-1590-11eb-9df1-2c8c54671a45.png)
+
+- 핵토버페스트 핸즈온 이슈를 만들어봅니다.
 
 ### 2단계 : 포크뜨기 
 
@@ -46,3 +53,10 @@ $ git push -u origin main # remote와 branch 명에 따라서
 ### 5단계 : 깃헙으로 돌아와서 PR 날리기  
 - 다시 [리파지토리](https://github.com/jiyeonseo/2020-hacktoberfest-hands-on) 로 돌아오면 상단에 바로 PR 날릴수 있는 버튼이 생성되어있습니다. 
 
+![jiyeonseo_2020-hacktoberfest-hands-on__👾_2020_Hacktoberfest_Seoul_핸즈온_세션을_위한_리파지토리](https://user-images.githubusercontent.com/2231510/97012078-7226a880-1582-11eb-9967-64406a8bdf42.png)
+
+
+![Comparing_main___feature_github_docs_·_jiyeonseo_2020-hacktoberfest-hands-on](https://user-images.githubusercontent.com/2231510/97012696-190b4480-1583-11eb-9f44-065f635e9676.png)
+
+- base가 jiyeonseo/2020-hacktoberfest-hands-on 인지 확인합니다 
+- reviewer를 @jiyeonseo 를 지정해줍니다! 
